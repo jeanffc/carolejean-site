@@ -136,11 +136,11 @@
 		//INFO WINDOWS
 		//=======================================================================================
 		var contentString = '<div>'+
-		'WEDDING CEREMONY';
+		'CERIMONIA E FESTA';
       	'</div>';
 		
 		var contentString1 = '<div>'+
-		'WEDDING PARTY';
+		'FESTA';
       	'</div>';
 
  	 	var infowindow = new google.maps.InfoWindow({
