@@ -2531,17 +2531,17 @@ form .has-error .btn-primary{
 	background-color:transparent;
 	color:#FFF;
 	font-family: 'Oswald', sans-serif; 
-	font-size:13px;
+	font-size:20px;
 }
 
 .simple-countdown .countdown-amount {
 	display:inline-block;
-	font-size:18px;
+	font-size:20px;
 	letter-spacing:2px;
 }
 .simple-countdown .countdown-period {
     display:inline-block;
-	font-size:18px;
+	font-size:20px;
 }
 
 

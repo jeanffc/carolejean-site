@@ -14,7 +14,7 @@
 		//DEFINE MAP OPTIONS
 		//=======================================================================================
   		var mapOptions = {
-    		zoom: 14,		
+    		zoom: 12,		
 			mapTypeId: google.maps.MapTypeId.ROADMAP,	
     		center: new google.maps.LatLng(-22.943215, -45.580282),
 			panControl: true,
@@ -135,9 +135,11 @@
 		
 		//INFO WINDOWS
 		//=======================================================================================
-		var contentString = '<div>'+
-		'CERIMONIA E FESTA';
-      	'</div>';
+		var contentString = 
+    '<div class="text-center">'+
+		  '<p>Rod. Pedro Celete, 530, Tremembé - SP</p>'+
+      '<a href="https://goo.gl/maps/Y6fTP8iiL6C2" target="_blank">Clique aqui para abrir no Google Maps</a>';
+    '</div>';
 		
 		var contentString1 = '<div>'+
 		'FESTA';
